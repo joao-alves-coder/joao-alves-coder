@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">João Alves</h1>
 
-<!--
-**joao-alves-coder/joao-alves-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Técnico em Informática pelo Instituto Federal Goiano <br>
+🚀 Futuro Desenvolvedor Full Stack <br>
+🎯 Foco em Front-End
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que utilizo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,git,github,vscode" />
+</p>
+
+## 🚀 Projeto em destaque
+
+### 🏎 Projeto F1 – Gabriel Bortoleto
+
+Site desenvolvido para estudar e praticar desenvolvimento sem fins lucrativos **Front-End moderno**, com animações, layout responsivo e design inspirado no automobilismo.
+Meu primeiro projeto com JavaScript!!
+
+🔗 Acesse o site:  
+https://joao-alves-coder.github.io/ProjetoF1/index.html
+
+---
+
+## 📈 Visitantes do perfil
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=joao-alves-coder&color=red&style=for-the-badge"/>
+</p>
