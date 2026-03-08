@@ -22,15 +22,14 @@
 
 ### 🏎 Projeto F1 – Gabriel Bortoleto
 
-Site desenvolvido para estudar e praticar **Front-End moderno**, com animações, layout responsivo e design inspirado no automobilismo.
+Site desenvolvido para estudar e praticar **Front-End**, com animações, layout responsivo e design inspirado no automobilismo.
 
 Meu **primeiro projeto com JavaScript**.
 
 🔗 Acesse o site:  
 https://joao-alves-coder.github.io/ProjetoF1/index.html
 
-## 👀 Visitantes do perfil
-
+## 👀 Visitantes
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=joao-alves-coder&color=red&style=for-the-badge"/>
 </p>
