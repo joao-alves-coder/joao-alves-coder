@@ -4,7 +4,7 @@
 
 <p align="center">
 💻 Técnico em Informática pelo Instituto Federal Goiano <br>
-🎯 Foco em Front-End
+🎯 Foco em Front-End <br>
 🚀 Futuro Desenvolvedor Full Stack <br>
 </p>
 
