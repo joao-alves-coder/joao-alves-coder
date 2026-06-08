@@ -5,12 +5,10 @@
 <p align="center">
 💻 Técnico em Informática pelo Instituto Federal Goiano <br>
 🎯 Foco em Front-End <br>
-🚀 Futuro Desenvolvedor Full Stack <br>
 </p>
 
 ---
 
-## 🛠 Tecnologias que utilizo
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,c,git,github,vscode" />
