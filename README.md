@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-💻 Técnico em Informática pelo Instituto Federal Goiano <br>
-🎯 Foco em Front-End <br>
+Técnico em Informática pelo Instituto Federal Goiano <br>
 </p>
 
 ---
