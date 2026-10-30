@@ -14,19 +14,3 @@ Técnico em Informática pelo Instituto Federal Goiano <br>
 </p>
 
 ---
-
-## 🚀 Projeto em destaque
-
-### 🏎 Projeto F1 – Gabriel Bortoleto
-
-Site desenvolvido para estudar e praticar **Front-End**, com animações, layout responsivo e design inspirado no automobilismo.
-
-Meu **primeiro projeto com JavaScript**.
-
-🔗 Acesse o site:  
-https://joao-alves-coder.github.io/ProjetoF1/index.html
-
-## 👀 Visitantes
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=joao-alves-coder&color=red&style=for-the-badge"/>
-</p>
